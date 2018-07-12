@@ -5,3 +5,5 @@ elif(N==0):
     print("Zero")
 else:
     print("Negative")
+    
+          
